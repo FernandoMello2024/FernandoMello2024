@@ -3,7 +3,6 @@
 - 🔭 Estudante de front-end
 - 🌱 Atualmente estou aprendendo Java-script
 - 👯 Estou procurando colaborar em desenvolvimento de novos projetos
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Comecei a me interessar por tecnologia e programação desde 2007
 
 - [![FernandoMello2024 GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoMello2024)](https://github.com/FernandoMello2024/github-readme-stats)
