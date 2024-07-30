@@ -1,4 +1,4 @@
-## Muito prazer! Eu sou o Fernando Mello 👋
+## Muito prazer! Eu sou o Fernando Mello 
 
 - 🔭 Estudante de front-end
 - 🌱 Atualmente estou aprendendo Java-script
